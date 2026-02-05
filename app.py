@@ -1,4 +1,4 @@
-pip install streamlit sympy numpy scipy
+
 import streamlit as st
 import sympy as sp
 import re
